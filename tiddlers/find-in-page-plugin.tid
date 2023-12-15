@@ -1,0 +1,4 @@
+title: find-in-page-plugin
+type: text/vnd.tiddlywiki
+
+{{ $:/plugins/ahanniga/find-in-page-plugin/README }}
